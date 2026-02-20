@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+###Files
+Neotoma-env-detch is the depositional environment project. Src contains the code I worked on to optimize the dataset search using Vue. 
